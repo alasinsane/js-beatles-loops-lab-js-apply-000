@@ -9,7 +9,3 @@ function theBeatlesPlay(musicians, instruments) {
   }
     return n;
 }
-
-function iLoveTheBeatles(number) {
-  for (i = 0; i )
-}
